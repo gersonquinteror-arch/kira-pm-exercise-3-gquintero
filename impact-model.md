@@ -64,7 +64,7 @@ Same firm, now viewed as a Kira account. **Adoption is the load-bearing assumpti
 | Penetration | Accounts | Recurring revenue / yr |
 |---|---|---|
 | 1.0% | 270,000 | **$1.35B** |
-| 0.25% | 67,500 | **$340M** |
+| 0.25% | 67,500 | **$338M** |
 | 0.10% | 27,000 | **$135M** |
 
 Even the **0.1% floor of the ceiling (~$135M ARR) is ~45× Kira's current ~$3M ARR.** The ceiling is the category prize, not a forecast — and we say that out loud.
