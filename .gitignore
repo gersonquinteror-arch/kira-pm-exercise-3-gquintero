@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+# Editor
+.vscode/
+.idea/
+# Internal / not for publication
+CLAUDE.md
+*Brief*.md
+.env
+.env.*
