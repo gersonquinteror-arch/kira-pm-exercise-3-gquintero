@@ -25,7 +25,7 @@ Everyone this year shipped how an agent *pays* (Visa, Mastercard, Google AP2, Co
 | [`04-a2a-steelman-teardown-and-defense.md`](evidence/ai/04-a2a-steelman-teardown-and-defense.md) | The hardest 4-argument teardown of the idea, and the 4 defenses it survived. |
 
 ## Links
-- **Loom (5-min pitch):** _[to be added]_
+- **Loom (5-min pitch):** https://www.loom.com/share/96b2f1b3dec3448c9bf4d5557c235822
 - **1-page memo:** [`memo.md`](memo.md)
 
 ---
